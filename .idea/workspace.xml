@@ -4,35 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef6f40b-4f15-4717-9700-9cc7fbdf8c9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/constants/search-input.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/layout/MobileBottomNav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mobileMenuData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/navigation-data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Oversize-Frontend.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="cef6f40b-4f15-4717-9700-9cc7fbdf8c9d" name="Changes" comment="feat: header add responsive layout and mobile menu toggle">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/cart/CartActions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/cart/CartActions.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/cart/CartEmpty.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/cart/CartEmpty.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/cart/CartItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/cart/CartItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/cart/CartTotal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/cart/CartTotal.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/products/ProductCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/products/ProductCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/products/ProductDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/products/ProductDetail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/products/ProductGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/products/ProductGrid.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/products/ProductRating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/products/ProductRating.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/shared/Toast.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/shared/Toast.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/navigation-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/navigation-data.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,28 +47,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Abduakhad-developer&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Oversize-Frontend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.TypeScript&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\User\\Desktop\\Oversize-Frontend\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Abduakhad-developer",
+    "ignore.virus.scanning.warn.message": "true",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/Oversize-Frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.Next.js: server-side.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
+    "ts.external.directory.path": "C:\\Users\\User\\Desktop\\Oversize-Frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Oversize-Frontend\components" />
@@ -133,10 +110,33 @@
       <workItem from="1752347078634" duration="1313000" />
       <workItem from="1752348420096" duration="1953000" />
       <workItem from="1752498323702" duration="282000" />
+      <workItem from="1753285914908" duration="132000" />
+      <workItem from="1753287986634" duration="384000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: header add responsive layout and mobile menu toggle">
+      <option name="closed" value="true" />
+      <created>1753284369011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753284369012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: header add responsive layout and mobile menu toggle">
+      <option name="closed" value="true" />
+      <created>1753284405856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753284405856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: header add responsive layout and mobile menu toggle" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: header add responsive layout and mobile menu toggle" />
   </component>
 </project>
