@@ -1,10 +1,10 @@
 import type {Metadata} from "next";
-import "../style/globals.css";
+import "./globals.css";
 
 
 export const metadata: Metadata = {
     title: "Oversize",
-    description: "Oversize bilan o'z emijingizni yarating ",
+    description: "Oversize bilan o'z imejingizni yarating",
 };
 
 export default function RootLayout({
@@ -14,7 +14,9 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
-        <body>
+        <body
+            cz-shortcut-listen="true" data-new-gr-c-s-check-loaded="14.1244.0" data-gr-ext-installed=""
+        >
         {children}
         </body>
         </html>
