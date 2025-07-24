@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cef6f40b-4f15-4717-9700-9cc7fbdf8c9d" name="Changes" comment="feat: header add responsive layout and mobile menu toggle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/navigation-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/navigation-data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/mobile-footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/mobile-footer.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/Oversize-Frontend",
+    "last_opened_file_path": "D:/Project/Oversize-Frontend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +65,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.Next.js: server-side.executor": "Run",
     "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
-    "ts.external.directory.path": "C:\\Users\\User\\Desktop\\Oversize-Frontend\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "D:\\Project\\Oversize-Frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -112,6 +111,8 @@
       <workItem from="1752498323702" duration="282000" />
       <workItem from="1753285914908" duration="132000" />
       <workItem from="1753287986634" duration="384000" />
+      <workItem from="1753327393953" duration="48000" />
+      <workItem from="1753327460135" duration="1518000" />
     </task>
     <task id="LOCAL-00001" summary="feat: header add responsive layout and mobile menu toggle">
       <option name="closed" value="true" />
