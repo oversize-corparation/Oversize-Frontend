@@ -1,11 +1,12 @@
 "use client"
 
 import Link from "next/link"
-import {FaLocationDot} from "react-icons/fa6"
+
 import {AiOutlineMenu} from "react-icons/ai"
 import {navigationData} from "@/data/navigation-data"
 import SearchInput from "@/components/constants/search-input"
 import MobileBottomNav from "./MobileBottomNav"
+import LanguageSwitcher from "../constants/LanguageSwitcher";
 
 const Header = () => {
     return (
@@ -20,14 +21,9 @@ const Header = () => {
                             <SearchInput />
                         </div>
 
-                        {/* Location Button */}
-                        {/*<Link*/}
-                        {/*    href="/"*/}
-                        {/*    className="flex items-center justify-center p-2 rounded-full hover:bg-blue-600 transition"*/}
-                        {/*>*/}
-                        {/*    <FaLocationDot className="text-white" size={24} />*/}
-                        {/*</Link>*/}
-
+                         {/* Location Button  */}
+                        
+                                      <LanguageSwitcher/>
                         {/* Menu Button */}
                         <button
                             className="p-2 rounded-lg border border-gray-300 hover transition"
@@ -72,6 +68,7 @@ const Header = () => {
                         {/* Navigation start */}
                         <nav>
                             <ul className="flex items-center space-x-6">
+                            <LanguageSwitcher/>
                                 {navigationData.map((item) => {
                                     const IconComponent = item.icon
                                     return (

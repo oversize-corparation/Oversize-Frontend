@@ -3,6 +3,7 @@ import {RxAvatar} from "react-icons/rx"
 import {GrFavorite} from "react-icons/gr"
 import type {IconType} from "react-icons"
 
+
 export interface NavigationItem {
     id: string
     label: string
@@ -12,13 +13,7 @@ export interface NavigationItem {
 }
 
 export const navigationData: NavigationItem[] = [
-    // {
-    //     id: "location",
-    //     label: "Joylashuv",
-    //     href: "/location",
-    //     icon: FaLocationDot,
-    //     iconSize: 24,
-    // },
+   
     {
         id: "favorites",
         label: "Sevimli",
